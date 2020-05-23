@@ -22,7 +22,7 @@ class LinkedList:
 	# Function to get the middle of  
 	# the linked list 
 	def printMiddle(self):
-		slow = fast = self.head
+		slow, fast = self.head, self.head
 		while fast.next and fast.next.next:
 			fast = fast.next.next
 			slow = slow.next
