@@ -1,4 +1,7 @@
 # Python program for implementation of MergeSort 
+#time_complexity - O(nlogn) - recursive divide and merge
+#space_complexity - O(n) - storing left and right halves
+
 def mergeSort(arr):
   
   #write your code here

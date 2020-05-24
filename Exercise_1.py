@@ -1,5 +1,8 @@
 # Python code to implement iterative Binary  
 # Search. 
+
+#time_complexity - O(logn)
+#space_complexity - O(1)
   
 # It returns location of x in given array arr  
 # if present, else returns -1 

@@ -1,3 +1,7 @@
+#time_complexity - O(n)
+#space_complexity - O(n)
+
+
 # Node class  
 class Node:  
   
